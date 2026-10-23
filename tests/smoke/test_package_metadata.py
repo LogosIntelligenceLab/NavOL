@@ -120,7 +120,7 @@ class PackageMetadataTests(unittest.TestCase):
         ):
             runpy.run_path(str(EXTENSION_ROOT / "setup.py"), run_name="__main__")
 
-        self.assertEqual(captured["url"], "https://github.com/WAboutMe/NavOL")
+        self.assertEqual(captured["url"], "https://github.com/LogosIntelligenceLab/NavOL")
         self.assertEqual(captured["python_requires"], ">=3.10")
         self.assertIn("Programming Language :: Python :: 3.10", captured["classifiers"])
         self.assertIn("Programming Language :: Python :: 3.11", captured["classifiers"])

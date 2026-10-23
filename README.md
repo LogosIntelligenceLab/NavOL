@@ -5,7 +5,7 @@
   <strong>·</strong>
   <a href="https://huggingface.co/datasets/WAboutme/NavOL"><strong>Models and data</strong></a>
   <strong>·</strong>
-  <a href="https://github.com/WAboutMe/NavOL/blob/main/docs/README_zh-CN.md"><strong>中文说明</strong></a>
+  <a href="https://github.com/LogosIntelligenceLab/NavOL/blob/main/docs/README_zh-CN.md"><strong>中文说明</strong></a>
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ Activate the resulting Python environment, then clone NavOL and install its
 three local packages:
 
 ```bash
-git clone https://github.com/WAboutMe/NavOL.git
+git clone https://github.com/LogosIntelligenceLab/NavOL.git
 cd NavOL
 
 python -m pip install -e source/rsl_rl

@@ -7,7 +7,7 @@
   <strong>·</strong>
   <a href="https://huggingface.co/datasets/WAboutme/NavOL"><strong>模型与数据</strong></a>
   <strong>·</strong>
-  <a href="https://github.com/WAboutMe/NavOL/blob/main/README.md"><strong>English README</strong></a>
+  <a href="https://github.com/LogosIntelligenceLab/NavOL/blob/main/README.md"><strong>English README</strong></a>
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@ NavOL 在模拟器 rollout 与策略更新两个阶段之间交替运行。rollo
 先按照 [Isaac Lab 官方文档](https://isaac-sim.github.io/IsaacLab/main/source/setup/installation/index.html) 安装 Isaac Sim 4.5 与 Isaac Lab 2.1，并进入相应 Python 环境。然后在仓库根目录执行：
 
 ```bash
-git clone https://github.com/WAboutMe/NavOL.git
+git clone https://github.com/LogosIntelligenceLab/NavOL.git
 cd NavOL
 
 python -m pip install -e source/rsl_rl

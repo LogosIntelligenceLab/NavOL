@@ -11,7 +11,7 @@ title = "NavOL"
 author = "NavOL Authors"
 maintainer = "WAboutMe"
 description = "Navigation Policy with Online Imitation Learning for Isaac Lab"
-repository = "https://github.com/WAboutMe/NavOL"
+repository = "https://github.com/LogosIntelligenceLab/NavOL"
 keywords = ["navigation", "imitation-learning", "diffusion-policy", "isaaclab"]
 
 [dependencies]
