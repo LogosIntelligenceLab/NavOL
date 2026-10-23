@@ -3,7 +3,7 @@
 This repository contains the static project page for **NavOL: Navigation Policy
 with Online Imitation Learning**, accepted at ICML 2026.
 
-- Project page: https://logosroboticsgroup.github.io/NavOL/
+- Project page: https://logosintelligencelab.github.io/NavOL/
 - Paper: https://arxiv.org/abs/2605.11762
 - Code: https://github.com/WAboutMe/NavOL
 - Models and data: https://huggingface.co/datasets/WAboutme/NavOL
