@@ -5,7 +5,7 @@ with Online Imitation Learning**, accepted at ICML 2026.
 
 - Project page: https://logosintelligencelab.github.io/NavOL/
 - Paper: https://arxiv.org/abs/2605.11762
-- Code: https://github.com/WAboutMe/NavOL
+- Code: https://github.com/LogosIntelligenceLab/NavOL
 - Models and data: https://huggingface.co/datasets/WAboutme/NavOL
 
 ## Structure
