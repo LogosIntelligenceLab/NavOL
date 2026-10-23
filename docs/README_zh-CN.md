@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <a href="https://logosroboticsgroup.github.io/NavOL/"><strong>项目主页与演示视频</strong></a>
+  <a href="https://logosintelligencelab.github.io/NavOL/"><strong>项目主页与演示视频</strong></a>
 </p>
 
 NavOL 是一个在 Isaac Lab 中通过在线模仿学习训练的具身点目标导航策略。训练阶段由具有地图权限的 NavMesh 专家提供轨迹级监督；部署阶段只使用 RGB-D 观测和目标，不需要地图或专家规划器。本仓库把数据准备、策略训练和 benchmark 评测拆分为三个清晰的公开工作流。

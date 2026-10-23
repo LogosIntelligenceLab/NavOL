@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <a href="https://logosroboticsgroup.github.io/NavOL/"><strong>Project page and videos</strong></a>
+  <a href="https://logosintelligencelab.github.io/NavOL/"><strong>Project page and videos</strong></a>
 </p>
 
 NavOL trains an embodied point-goal navigation policy through online imitation
